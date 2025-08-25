@@ -1,1 +1,1 @@
-React App for badmintion Analysis using GEMINI API, Acts like a Coach and helps players get better.
+React App for badmintion Analysis Tool using GEMINI API, Acts like a Coach and helps players get better.
